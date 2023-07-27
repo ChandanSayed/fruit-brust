@@ -1,3 +1,7 @@
 body {
   font-family: 'Lato', sans-serif;
 }
+.banner-details {
+  border-radius: 8px;
+  background: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+}
