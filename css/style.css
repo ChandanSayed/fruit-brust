@@ -1,7 +1,14 @@
 body {
   font-family: 'Lato', sans-serif;
+  color: #121212;
+}
+p {
+  color: rgba(18, 18, 18, 0.6);
 }
 .banner-details {
   border-radius: 8px;
   background: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+}
+.fruit .container {
+  box-shadow: 0px 8px 60px 0px rgba(0, 0, 0, 0.05);
 }
